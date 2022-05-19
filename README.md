@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ming.
+### Hi there 👋 I'm Ming. <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=Ming990828.990828" />
 
 <!--
 **Ming990828/Ming990828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
